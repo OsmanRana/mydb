@@ -1,0 +1,38 @@
+[
+{
+        "id": "1",
+        "name": "Brain & Nerves (Neurology)",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Nephrologist-Care-280x215.jpg",
+        "description": "Life Care Hospital are supported by ParkwayHealth Laboratory in our clinical laboratory services, which range from histopathology to DNA testing, and much more. These services also support our teaching and research capabilities.Located within our hospitals, these laboratories are managed by a team of pathologists and laboratory scientists who handle samples of tissue, blood and other bodily fluid from over 2,000 doctors across 7 facilities daily.Experienced in the fields of biochemistry, haematology, immunology, microbiology to cytology, histology and genetics, these scientists work in close collaboration with our clinicians to deliver comprehensive diagnostic results that help our doctors determine the optimal treatment plan for their patients."
+    },
+    {
+        "id": "2",
+        "name": "Bones (Orthopaedics)",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_80150830_original-400x400.jpg",
+        "description": "We understand that mobility is pivotal to a good life. Our dedication to orthopaedics is strengthened by the unity of specialised orthopaedic surgeons, consultants, nurses, physiotherapists, and occupational therapists working together to diagnose and treat your condition."
+    },
+    {
+        "id": "3",
+        "name": "Cancer (Oncology)",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_10069934_original-400x400.jpg",
+        "description": "Cancer treatment calls for complete, customised care from our experienced oncologists working together with nurses, para-medical staff, palliative (end-of-life) care professionals and counsellors. Armed with up-to-date technology, our qualified team works in the fields of medical, surgical, radiation, haematological (blood), and paediatric (childhood) oncology to improve a patient’s quality of life"
+    },
+    {
+        "id": "4",
+        "name": "Children (Paediatrics)",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/02/Depositphotos_11882261_original-280x215.jpg",
+        "description": "Cancer treatment calls for complete, customised care from our experienced oncologists working together with nurses, para-medical staff, palliative (end-of-life) care professionals and counsellors. Armed with up-to-date technology, our qualified team works in the fields of medical, surgical, radiation, haematological (blood), and paediatric (childhood) oncology to improve a patient’s quality of life"
+    },
+    {
+        "id": "5",
+        "name": "Ear, Nose & Throat",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_42539851_department.jpg",
+        "description": "Our specialists in otorhinolaryngology (ear, nose and throat – ENT) are experienced in treating a wide range of ENT conditions, as well as head and neck conditions.You will have an entire medical team supported by skilled hearing therapists (audiologists), communication and language (auditory verbal) development therapists, speech and language therapists, and nurses who are professionally qualified in this field, focused on your healing journey."
+    },
+    {
+        "id": "6",
+        "name": "Eyes (Ophthalmology)",
+        "image": "https://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Facility-Optic-280x215.jpg",
+        "description": "The gift of eyesight is one we aim to regain and improve for our young and adult patients seeking the expertise of our ophthalmology specialists. Our team uses diagnostic and surgical equipment, offering a range of eye care services and tailoring treatment to your individual needs"
+    }
+    ]
