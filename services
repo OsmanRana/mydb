@@ -1,4 +1,4 @@
-const services = [
+[
     {
         "id": "1",
         "name": "Brain & Nerves (Neurology)",
